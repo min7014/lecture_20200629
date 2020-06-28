@@ -22,8 +22,11 @@
   ### 알지오매스(AlgeoMath) 소개
   
 - ### 2 차시 
+  
   ### 공학도구를 활용한 예시 1
- 
+  ##### 선분과 직선상의 한 점을 가지고 직각삼각형 작도하기 : https://min7014.github.io/math20190928002.html
+  ##### 선분과 직선 위의 한 점을 가지고 직각삼각형 작도하기(만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/5ZGXsJ4S
+  ##### 선분과 직선 위의 한 점을 가지고 이등변삼각형 작도하기(만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/5vDr6pCN
   
 - ### 3 차시
 
@@ -36,17 +39,19 @@
 
 =======================================================
   ### 다른이에게 쉽게 알려주기
-
+  ##### -알지오매스 빠르게 배우기 설명 YouTube : https://youtu.be/tzR765vg74E
+  ##### -빠르게 배우기 : http://me2.do/5fS0J6mQ
+  ##### -The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt  
+  
+  ### 작도공부에 대한 필요성
   ##### -기하작도문제(Geometry Construction Problems)[AlgeoMath : http://me2.do/GlNLGVdL]
 
 
 ### *참고
 - ##### 민은기 선생님의 수학자료실 : [https://min7014.github.io](https://min7014.github.io)
 - ##### 민은기 선생님의 수학수업 AlgeoMath 모둠 : [https://www.algeomath.kr/modoom/bc4ea51f5f4045dea594b8cb159e8eab/main.do](https://www.algeomath.kr/modoom/bc4ea51f5f4045dea594b8cb159e8eab/main.do)
-- ##### 작도 AlgeoMath 모둠 : [https://www.algeomath.kr/modoom/0c060fbac78d48c6b635b7c8a1b98cf0/main.do](https://www.algeomath.kr/modoom/0c060fbac78d48c6b635b7c8a1b98cf0/main.do)
 - ##### 예각에 대한 사인법칙(AlgeoMath)[강의록](From Github) : https://min7014.github.io/2019/2018092501.pdf
 - ##### 주사위의 상대도수 만드는 과정 [Algeomath : http://me2.do/5VH7wFdc ]
-- ##### edwith 수학자료실 강의실 수강신청 방법 : [https://goo.gl/TX9bxf](https://goo.gl/TX9bxf)
 
 ### *AlgeoMath
 - ##### AlgeoMath 주소 : https://www.algeomath.kr
