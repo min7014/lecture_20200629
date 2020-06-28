@@ -25,12 +25,7 @@
 
 =======================================================
   ### 다른이에게 쉽게 알려주기
-  ##### -알지오매스 빠르게 배우기 설명 YouTube : https://youtu.be/tzR765vg74E
-  ##### -빠르게 배우기 : http://me2.do/5fS0J6mQ
-  ##### -The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt  
-  
-  ### 작도공부에 대한 필요성
-  ##### -작도에 대한 공부의 필요성 설명 YouTube : https://youtu.be/lNZsh6YjDZo
+
   ##### -기하작도문제(Geometry Construction Problems)[AlgeoMath : http://me2.do/GlNLGVdL]
 
 
